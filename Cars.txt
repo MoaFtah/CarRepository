@@ -1,3 +1,5 @@
 Honda
 BMW
 Opel
+Kia
+Hyundai
